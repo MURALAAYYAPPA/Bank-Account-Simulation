@@ -117,4 +117,7 @@ Current Balance: 7000
 * Provide a GUI version using JavaFX or Swing.
 
 OUTPUT : 
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ff5978db-6743-4de7-a578-b12cd8d5042d" />
+
+<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/39f162b7-ab6d-48c9-9b4c-e6070ef32bcd" />
 
